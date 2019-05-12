@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Aviral Gangwar stashing@gmail.com
+    Aviral Gangwar stashing@gmail.com branching
 
 # THANKS
 
